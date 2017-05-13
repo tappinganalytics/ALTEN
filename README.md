@@ -7,3 +7,6 @@ Please see image_classification.ipynb notebook and [Esther's tensorflow Repo](ht
 
 ### Spark
 Please go to [Databricks](https://databricks.com) and sign up for free account. Then start running Spark with their tutorial.
+
+### Run Tensorflow on Databricks with single node
+MNIST.ipynb has the code for simple MNIST digit recognition project using Tensorflow library. I tested and it can be run successfully on Databricks.
